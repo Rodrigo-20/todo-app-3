@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Rodrigo-20/todo-app-3/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Rodrigo-20/todo-app-3/static/js/main.45d237d8.chunk.js",
+    "main.js.map": "/Rodrigo-20/todo-app-3/static/js/main.45d237d8.chunk.js.map",
+    "runtime-main.js": "/Rodrigo-20/todo-app-3/static/js/runtime-main.2d4a4368.js",
+    "runtime-main.js.map": "/Rodrigo-20/todo-app-3/static/js/runtime-main.2d4a4368.js.map",
+    "static/js/2.7595ab55.chunk.js": "/Rodrigo-20/todo-app-3/static/js/2.7595ab55.chunk.js",
+    "static/js/2.7595ab55.chunk.js.map": "/Rodrigo-20/todo-app-3/static/js/2.7595ab55.chunk.js.map",
+    "static/js/3.03dc8e44.chunk.js": "/Rodrigo-20/todo-app-3/static/js/3.03dc8e44.chunk.js",
+    "static/js/3.03dc8e44.chunk.js.map": "/Rodrigo-20/todo-app-3/static/js/3.03dc8e44.chunk.js.map",
+    "index.html": "/Rodrigo-20/todo-app-3/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Rodrigo-20/todo-app-3/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.7595ab55.chunk.js.LICENSE.txt": "/Rodrigo-20/todo-app-3/static/js/2.7595ab55.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Rodrigo-20/todo-app-3/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d4a4368.js",
+    "static/js/2.7595ab55.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.45d237d8.chunk.js"
+  ]
+}
