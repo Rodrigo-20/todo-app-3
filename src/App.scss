@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+}
+.main-container {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    // transition: height 1000ms ease-in;
+
+}
+
+.active {
+    transition: transform 400ms ease-in-out;    
+}
+.nav-days{
+    display: flex;
+    width: 100%;
+
+} 
+.day {
+    padding: 20px 10px;
+    border: 1px solid black;
+    flex: 1;
+    text-align: center;
+    background-color: cadetblue;
+    color: white;
+    p {
+        margin: 0;
+    }
+}
+
+.add-icon{
+    width: 100%;
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    font-size: 50px;
+    height: 100px;
+    div {
+        border: 1px solid black;
+        transition: all 300ms ease-in-out;
+        width: fit-content;
+        margin: auto;
+        cursor: pointer;
+    }
+}
+.icon-rot{
+     
+    transform: rotate(180deg);
+}
+form{
+    opacity: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    // transition: opacity 200ms ease-in;
+    // transform: translateY(-100%);
+    div{
+        padding: 10px 0;
+    }
+}
+
+.task-list{
+    opacity: 0; 
+    // display: none;
+    // transition: all 300ms ease-in; 
+    ul{
+        list-style: none;}
+}
+.list-active {
+    //  display: block;
+}
